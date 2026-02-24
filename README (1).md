@@ -1,6 +1,6 @@
 # Hey, ich bin Luca 👋
 
-Hobby-Entwickler aus Deutschland, aktuell auf dem Weg zum Fachinformatiker Anwendungsentwicklung.
+Hobby-Entwickler aus Deutschland.
 Ich lerne seit einer Weile C# und Java und versuche das ganze hier zu dokumentieren.
 
 ---
@@ -32,4 +32,4 @@ Ich lerne seit einer Weile C# und Java und versuche das ganze hier zu dokumentie
 
 ## Kontakt
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deine@mail.de)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luca.uznadze@gmail.com)
