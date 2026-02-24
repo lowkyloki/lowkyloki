@@ -1,7 +1,7 @@
 # Hey, ich bin Luca 👋
 
 Hobby-Entwickler aus Deutschland.
-Ich lerne seit einer Weile C# und Java und versuche das ganze hier zu dokumentieren.
+Ich lerne seit einer Weile C# und Java und will das ganze hier zu dokumentieren.
 
 ---
 
