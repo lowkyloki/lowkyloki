@@ -45,4 +45,4 @@
 
 ---
 
-*„Mach das was dich glücklich macht."*
+*„Kunst."*
