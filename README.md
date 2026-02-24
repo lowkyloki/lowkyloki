@@ -1,12 +1,11 @@
-# Hey, ich bin Luca 👋 — aka `lowkyloki`
+# Hey, ich bin lowkyloki 👋
 
-> *Azubi in Ausbildung zum Fachinformatiker Anwendungsentwicklung · C# & Java Enthusiast*
+> *Hobby Developer on a mission · C# & Java 🚀*
 
 ---
 
 ## 🧑‍💻 Über mich
 
-- 🎯 Aktuell: Bewerbungsphase **FI-Anwendungsentwicklung**
 - 💻 Hauptsprachen: **C#** und **Java**
 - 🌱 Lerne gerade: Objektorientierte Programmierung, Clean Code, Git
 - 🔧 Interesse an: Desktop-Apps, Backend-Entwicklung, Softwarearchitektur
@@ -42,8 +41,8 @@
 
 ## 📬 Kontakt
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto=deine@email.de)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto=luca.uznadze@gmail.com)
 
 ---
 
-*„Der beste Code ist der, den andere verstehen."*
+*„Mach das was dich glücklich macht."*
