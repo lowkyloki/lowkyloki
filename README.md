@@ -27,7 +27,7 @@
 
 | Projekt | Beschreibung | Sprache |
 |---|---|---|
-| 🧮 [SimpleCalc](./SimpleCalc) | Konsolen-Taschenrechner mit Grundrechenarten | C# |
+| 🧮 [SimpleCalc](https://github.com/lowkyloki/SimpleCalc) | Konsolen-Taschenrechner mit Grundrechenarten | C# |
 | 🔜 Mehr folgt... | Weitere Projekte in Arbeit | C# / Java |
 
 ---
