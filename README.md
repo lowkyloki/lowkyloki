@@ -25,8 +25,8 @@ Ich lerne seit einer Weile C# und Java und will das ganze hier dokumentieren.
 
 | Projekt | Beschreibung | Sprache |
 |---|---|---|
-| [SimpleCalc](https://github.com/lowkyloki/SimpleCalc) | Einfacher Konsolentaschenrechner | C# |
-| [CodeBreaker](https://github.com/lowkyloki/CodeBreaker) | Passwort-Ratespiel mit Hinweisen, wird mit jedem Level schwerer | Java |
+| [SimpleCalc](https://github.com/sw4gaccino/SimpleCalc) | Einfacher Konsolentaschenrechner | C# |
+| [CodeBreaker](https://github.com/sw4gaccino/CodeBreaker) | Passwort-Ratespiel mit Hinweisen, wird mit jedem Level schwerer | Java |
 
 ---
 
