@@ -1,4 +1,4 @@
-# lowkyloki - Luca 👋
+# sw4gaccino - Luca 👋
 
 Hobby-Entwickler aus Deutschland.
 Ich lerne seit einer Weile C# und Java und will das ganze hier dokumentieren.
