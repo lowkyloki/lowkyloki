@@ -5,11 +5,11 @@ Ich lerne seit einer Weile C# und Java und will das ganze hier dokumentieren.
 
 ---
 
-## Was ich kann / lerne
+## Was ich lerne
 
-- C# (meine Hauptsprache)
-- Java (Grundlagen, wird mehr)
-- Git / GitHub (noch relativ neu für mich)
+- C#
+- Java
+- Git / GitHub 
 - Grundlagen OOP
 
 ## Tools
